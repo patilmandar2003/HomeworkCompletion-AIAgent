@@ -30,8 +30,8 @@ It then:
 
 1. Clone the repository and enter the project directory:  
    ```bash
-   git clone <your-repo-url>
-   cd agentpractice
+   git clone https://github.com/patilmandar2003/HomeworkCompletion-AIAgent.git
+   cd HomeworkCompletion-AIAgent
 
 2. Create and activate a virtual environment:
 python3 -m venv venv
