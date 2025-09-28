@@ -14,16 +14,6 @@ It then:
 
 ---
 
-## 📂 Project Structure  
-
-.
-├── main.py # Main script with graph workflow
-├── boy_who_lived.pdf # Reference material (example)
-├── questions.pdf # Homework questions (example)
-├── README.md # Project documentation
-└── venv/ # Virtual environment (optional)
-
-
 ---
 
 ## ⚙️ Installation  
