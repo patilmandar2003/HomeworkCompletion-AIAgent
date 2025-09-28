@@ -14,8 +14,6 @@ It then:
 
 ---
 
----
-
 ## ⚙️ Installation  
 
 1. Clone the repository and enter the project directory:  
